@@ -1,0 +1,2 @@
+cd A:\Frontend\mesto-ad
+npm.cmd run dev
